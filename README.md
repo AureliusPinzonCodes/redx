@@ -57,7 +57,7 @@ Our product exceeds our expectations; decreasing the amount of cyberattacks worl
 Protecting from malware, Simplifying network protection, Implement AI into our security
 ```
 
-### Our Sloagan
+### Our Slogan
 ```
 Use Protection, It's Fun!
 ```
