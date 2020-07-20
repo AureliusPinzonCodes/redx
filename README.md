@@ -31,7 +31,7 @@ _**Insert Brian Pic Here**_
 Brian has experience with Network Administration and with the physical side of servers. He has worked with computers for many years and understand the setup cost and effort that goes into such a task.
 
 
-_**Insert Shaun Pic Here**_
+![GitHub Logo](/images/logo.png)
 
 **Shaun Pinzon**
 
